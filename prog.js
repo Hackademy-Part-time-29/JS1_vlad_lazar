@@ -1,0 +1,12 @@
+let num1 = 4;
+let num2 = 8;
+let valo1 = "Il valore della variabile num1 è:";
+let valo2 = "Il valore della variabile num2 è:";
+let valoS = "Il valore della variabile stringa è:";
+let valoP = "Il valore della variabile PIGRECO è:";
+let stringa = "45723";
+const PIGRECO = 6.78965;
+console.log (valo1, num1);
+console.log (valo2, num2);
+console.log (valoS, parseInt(stringa, 10));
+console.log (valoP, PIGRECO);
